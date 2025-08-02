@@ -1,5 +1,4 @@
-
-# Mohamed Mostafa Shaban - AI Solutions Engineer 🚀
+# Mohamed Mostafa Shaban - AI Solutions Engineer & Business Intelligence Engineer 🚀
 
 [![Email](https://img.shields.io/badge/Email-mohamedmshaban99@gmail.com-blue?style=flat&logo=gmail)](mailto:mohamedmshaban99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamedmustafashaban)
@@ -11,14 +10,14 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineer and Data Scientist with 4+ years of experience in:
-- 🧠 Machine Learning & Deep Learning  
-- 💬 Natural Language Processing  
-- 📊 Data Analysis & Business Intelligence  
-- 🖼️ Computer Vision & Image Processing  
-- 🤖 Generative AI & LLMs  
+I'm Mohamed, an AI Engineer & Business Intelligence Specialist with over 4 years of experience in:  
+- 🧠 Artificial Intelligence & Deep Learning  
+- 💡 Business Intelligence & Data Strategy  
+- 📊 Data Visualization & Analytics  
+- 🧾 Document Understanding & OCR Solutions  
+- 🤖 LLMs, Chatbots & Generative AI  
 
-I love building real-world AI applications that deliver measurable business value.
+I create solutions that drive business decisions, operational efficiency, and intelligent automation.
 
 ---
 
@@ -27,76 +26,74 @@ I love building real-world AI applications that deliver measurable business valu
 🎓 **Bachelor’s in Computer and Control Engineering**  
 🏫 Higher Institute of Engineering and Technology, Kafr El-Sheikh  
 📆 *Graduated: April 2023*  
-🎯 *Project:* Real-Time Violence Detection using Deep Learning (Score: 100%)
+🏆 *Graduation Project:* Real-Time Violence Detection using Deep Learning (Score: 100%)
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**🔹 AI Solutions Engineer** — Freelance & Research (2024 - Present)  
-**🔹 NLP Engineer** — Research Projects (2022 - 2024)  
-**🔹 ML Instructor** — AMIT Learning & Freelance (2023 - 2025)  
+### 🔸 AI Solutions Engineer – Freelance & Research (2024 – Present)
+- Built AI solutions for real-time document Q&A and multilingual chatbots.
+- Integrated Gemini, LLaMA, and RAG pipelines for enterprise search and automation.
 
-🛠️ Delivered 10+ real-world AI/ML projects and mentored 100+ learners globally.
+### 🔸 BI Developer & Data Analyst (2022 – Present)
+- Designed Power BI dashboards for sales, churn, and HR metrics.
+- Built data pipelines in SQL & Python to automate reporting processes.
+
+### 🔸 ML & AI Instructor – AMIT Learning & Freelance (2023 – 2025)
+- Taught AI/ML, NLP, and CV to professionals. Developed hands-on labs and project-based learning.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Core Skills
 
-### 🔧 Programming & Frameworks
+### ⚙️ Programming & ML Tools
 ![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red?style=for-the-badge&logo=pytorch)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-green?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-LLMs-green?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface)
 
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-Expert-purple?style=for-the-badge&logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-Advanced-lightblue?style=for-the-badge)
+### 📊 Business Intelligence & Data Tools
 ![Power BI](https://img.shields.io/badge/Power--BI-Advanced-yellow?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange?style=for-the-badge&logo=tableau)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)
+![Google Sheets](https://img.shields.io/badge/Google--Sheets-Advanced-lightgreen?style=for-the-badge&logo=googlesheets)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-blue?style=for-the-badge&logo=postgresql)
 
-### ☁️ Cloud & MLOps
+### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-ML--Specialty-orange?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=for-the-badge&logo=docker)
-![MLflow](https://img.shields.io/badge/MLflow-Tracking-green?style=for-the-badge)
-
-### 🧠 AI Domains
-- ✅ **LLMs, Transformers, RAG, BERT, LLaMA, Gemini**
-- ✅ **Image Classification, Object Detection (YOLO)**
-- ✅ **Sentiment Analysis, Summarization, Chatbots**
-- ✅ **OCR, Document Understanding**
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboarding-red?style=for-the-badge&logo=streamlit)
 
 ---
 
-## 🏆 Certifications
+## 🧠 AI & BI Use Cases
 
-- 🟡 AWS Certified Machine Learning – Specialty  
+| Domain | Description |
+|--------|-------------|
+| **Churn Prediction** | Identified customer retention factors using Random Forest + SHAP |
+| **Sales Forecasting** | Used ARIMA/LSTM to forecast e-commerce trends |
+| **HR Analytics** | Built BI dashboards to analyze attrition and recruitment |
+| **Real-Time OCR QA** | Combined RAG + OCR + Gemini for document analysis |
+| **Fraud Detection** | Used Isolation Forests & Autoencoders for financial anomalies |
+| **Marketing Intelligence** | Designed Power BI + SQL dashboards for campaign performance |
+
+---
+
+## 📜 Certifications
+
+- 🧠 AWS Certified Machine Learning – Specialty  
+- 📊 Business Intelligence Analyst Mastery  
 - 🟣 Deep Learning Specialization – Coursera  
 - 🟢 Generative AI with LLMs – DeepLearning.AI  
 - 🔵 IBM Data Science Professional Certificate  
-- 🟠 Business Intelligence Analyst Mastery  
+- 📈 SQL, Excel & Power BI for Analytics
 
 ---
 
-## 🚀 Featured Projects
+## 📬 Let’s Connect
 
-| Project | Description |
-|--------|-------------|
-| **RAG + Gemini Document QA** | End-to-end retrieval + answer system using LLMs and OCR. |
-| **Sales Forecasting** | LSTM & ARIMA models for predicting future sales trends. |
-| **Real-Time Object Detection** | YOLOv5 pipeline for image & video recognition. |
-| **Healthcare Risk Prediction** | Predict chronic disease from medical data using ML. |
-| **Transformer-based Text Summarization** | Fine-tuned T5, BART for document summarization. |
-
----
-
-## 📬 Let's Collaborate
-
-🔗 I’m open to freelance work, remote opportunities, and collaborative AI research.  
-Feel free to reach out — let’s build something awesome together!
+I’m open to freelance/remote opportunities in AI, BI, and data-driven strategy. Let's collaborate and build impactful systems!
 
 📩 [mohamedmshaban99@gmail.com](mailto:mohamedmshaban99@gmail.com)
-"""
