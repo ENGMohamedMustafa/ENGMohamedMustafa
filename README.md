@@ -1,86 +1,102 @@
+
 # Mohamed Mostafa Shaban - AI Solutions Engineer 🚀
 
-**Email:** [mohamedmshaban99@gmail.com](mailto:mohamedmshaban99@gmail.com)  
-**Phone:** +971 56 356 2037  
-**LinkedIn:** [linkedin.com/in/mohamedmustafashaban](https://linkedin.com/in/mohamedmustafashaban)  
-**GitHub:** [github.com/ENGMohamedMustafa](https://github.com/ENGMohamedMustafa)  
-**Portfolio:** [my-portfoli-l4n9.vercel.app](https://my-portfoli-l4n9.vercel.app)  
-**Kaggle:** [kaggle.com/mohamedmustafashaban](https://www.kaggle.com/mohamedmustafashaban)
+[![Email](https://img.shields.io/badge/Email-mohamedmshaban99@gmail.com-blue?style=flat&logo=gmail)](mailto:mohamedmshaban99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamedmustafashaban)
+[![GitHub](https://img.shields.io/badge/GitHub-ENGMohamedMustafa-black?style=flat&logo=github)](https://github.com/ENGMohamedMustafa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=vercel)](https://my-portfoli-l4n9.vercel.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/mohamedmustafashaban)
 
-Hey there! 👋  
-I'm Mohamed, an AI Engineer and Data Scientist with 4+ years of experience in building intelligent systems using Machine Learning, Deep Learning, Computer Vision, and NLP. I specialize in delivering business impact through real-world AI applications, and I’m passionate about solving complex problems using data and LLMs.
+---
+
+## 👨‍💻 About Me
+
+I'm an AI Engineer and Data Scientist with 4+ years of experience in:
+- 🧠 Machine Learning & Deep Learning  
+- 💬 Natural Language Processing  
+- 📊 Data Analysis & Business Intelligence  
+- 🖼️ Computer Vision & Image Processing  
+- 🤖 Generative AI & LLMs  
+
+I love building real-world AI applications that deliver measurable business value.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor’s Degree in Computer and Control Engineering**  
-Higher Institute of Engineering and Technology, Kafr El-Sheikh  
-- 🏅 Graduation Score: 89% (Excellent)  
-- 🎓 Graduation Project: Real-Time Violence Detection using Deep Learning (Score: 100%)
+🎓 **Bachelor’s in Computer and Control Engineering**  
+🏫 Higher Institute of Engineering and Technology, Kafr El-Sheikh  
+📆 *Graduated: April 2023*  
+🎯 *Project:* Real-Time Violence Detection using Deep Learning (Score: 100%)
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### 🔸 AI Solutions Engineer – Freelance & Research  
-*Feb 2024 – Present | Remote*  
-- Built document understanding pipelines using OCR + Gemini API  
-- Designed multilingual chatbots using OpenAI, LLaMA 3, Mistral, and RAG  
-- Deployed AI applications using LangChain, FastAPI, and Streamlit  
+**🔹 AI Solutions Engineer** — Freelance & Research (2024 - Present)  
+**🔹 NLP Engineer** — Research Projects (2022 - 2024)  
+**🔹 ML Instructor** — AMIT Learning & Freelance (2023 - 2025)  
 
-### 🔸 NLP Engineer – Research Projects  
-*Jan 2022 – Apr 2024 | Remote*  
-- Fine-tuned transformer models (BERT, RoBERTa, DistilBERT) for sentiment analysis, summarization, NER, and translation  
-- Combined attention + LSTM for hybrid architectures  
-- Used Hugging Face and Transformers extensively  
-
-### 🔸 ML Instructor – AMIT Learning & Freelance  
-*Jan 2023 – Jul 2025 | Egypt*  
-- Delivered sessions on ML, DL, NLP, and Computer Vision  
-- Mentored junior engineers on TensorFlow and PyTorch  
-- Designed learning paths and hands-on labs  
+🛠️ Delivered 10+ real-world AI/ML projects and mentored 100+ learners globally.
 
 ---
 
-## 💡 Projects
+## 🛠️ Skills & Tools
 
-- **🔍 Real-Time Document Q&A using RAG & Gemini:** Built an end-to-end QA system that extracts data from scanned documents and answers queries using LLMs + OCR.  
-- **📊 E-commerce Sales Forecasting:** Used ARIMA and LSTM to predict future trends with over 90% accuracy.  
-- **🤖 Object Detection with YOLOv5:** Deployed custom YOLOv5 model for product recognition in videos.  
-- **🧠 Transformer-Based Text Summarization:** Fine-tuned BART and T5 for abstractive summarization tasks.  
-- **🎯 Customer Churn Prediction:** Used Random Forest and SHAP to identify churn drivers and reduce risk by 20%.  
-- **💬 Real-Time Sentiment Analysis with FastAPI:** Used LSTM + Hugging Face Transformers in production sentiment detection service.  
-- **🛠️ Anomaly Detection in Manufacturing:** Used autoencoders + PCA for defect detection, reducing false positives by 30%.  
-- **🏥 Healthcare Risk Modeling:** Built ML pipelines for predicting chronic disease risk from clinical data.
+### 🔧 Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red?style=for-the-badge&logo=pytorch)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-green?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-LLMs-green?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface)
 
----
+### 📊 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-Expert-purple?style=for-the-badge&logo=pandas)
+![Seaborn](https://img.shields.io/badge/Seaborn-Advanced-lightblue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power--BI-Advanced-yellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange?style=for-the-badge&logo=tableau)
 
-## 📜 Certifications
+### ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-ML--Specialty-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=for-the-badge&logo=docker)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-green?style=for-the-badge)
 
-- 🧠 AWS Certified Machine Learning – Specialty  
-- 🧠 Deep Learning Specialization (Andrew Ng – Coursera)  
-- 🧠 Generative AI with LLMs – DeepLearning.AI  
-- 🧠 IBM Data Science Professional Certificate  
-- 📊 Business Intelligence Analyst Mastery  
-- 📊 SQL for Data Science | Excel for Business | Power BI for Analytics
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages:** Python, SQL, Bash  
-**Frameworks:** TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask  
-**LLMs & NLP:** Hugging Face Transformers, LangChain, Gemini, OpenAI API  
-**CV & DL:** OpenCV, YOLO, CNNs, Autoencoders  
-**Cloud & MLOps:** AWS (SageMaker, S3, Lambda), GCP, Docker, MLflow  
-**Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Dev Tools:** Git, Jupyter, VSCode, Streamlit  
+### 🧠 AI Domains
+- ✅ **LLMs, Transformers, RAG, BERT, LLaMA, Gemini**
+- ✅ **Image Classification, Object Detection (YOLO)**
+- ✅ **Sentiment Analysis, Summarization, Chatbots**
+- ✅ **OCR, Document Understanding**
 
 ---
 
-## 💬 Let's Connect!
+## 🏆 Certifications
 
-I’m always open to collaborating on AI projects, speaking engagements, or freelance opportunities in Data Science, NLP, and Computer Vision.  
-Let’s build something impactful together! 💡
+- 🟡 AWS Certified Machine Learning – Specialty  
+- 🟣 Deep Learning Specialization – Coursera  
+- 🟢 Generative AI with LLMs – DeepLearning.AI  
+- 🔵 IBM Data Science Professional Certificate  
+- 🟠 Business Intelligence Analyst Mastery  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **RAG + Gemini Document QA** | End-to-end retrieval + answer system using LLMs and OCR. |
+| **Sales Forecasting** | LSTM & ARIMA models for predicting future sales trends. |
+| **Real-Time Object Detection** | YOLOv5 pipeline for image & video recognition. |
+| **Healthcare Risk Prediction** | Predict chronic disease from medical data using ML. |
+| **Transformer-based Text Summarization** | Fine-tuned T5, BART for document summarization. |
+
+---
+
+## 📬 Let's Collaborate
+
+🔗 I’m open to freelance work, remote opportunities, and collaborative AI research.  
+Feel free to reach out — let’s build something awesome together!
+
+📩 [mohamedmshaban99@gmail.com](mailto:mohamedmshaban99@gmail.com)
+"""
